@@ -1,0 +1,13 @@
+to install int the system .........
+1)open the terminal and pip install -r requirements.txt
+2)then got to mearoKinamela 
+3)open there terminal once again and type py manage.py make migrations 
+4)then type py manage.py migrate
+5)python manage.py runserver 
+6)will see the url link and ctrl+click
+7)then go to admin dash board by adding /admin
+8)then user name is admin and password 
+9)then uload data in store data base as i sent images prev ....
+  
+
+thank u ...... 
